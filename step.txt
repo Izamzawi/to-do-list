@@ -6,3 +6,4 @@
 - install vue fontawesome icon
 - write Vue logic => addItemForm
 - write Vue logic => listView
+- write Vue logic => listItem
