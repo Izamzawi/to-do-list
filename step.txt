@@ -7,3 +7,4 @@
 - write Vue logic => addItemForm
 - write Vue logic => listView
 - write Vue logic => listItem
+- write Vue logic => reload component
