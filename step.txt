@@ -1,0 +1,3 @@
+- Laravel
+- Item (migration, model, controller)
+- install Vue
