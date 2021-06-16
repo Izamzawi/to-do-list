@@ -1,7 +1,7 @@
 require('./bootstrap');
 
 import Vue from 'vue'
-import App from './vue/app'
+import App from './vue/App'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faPlusSquare, faTrash } from '@fortawesome/free-solid-svg-icons'
